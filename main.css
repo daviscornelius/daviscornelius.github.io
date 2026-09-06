@@ -3,3 +3,8 @@
   font-family: mainFont;
   src: url(GrapeSoda.ttf);
 }
+
+p
+{
+  font-family: mainFont;
+}
