@@ -1,7 +1,7 @@
 @font-family 
 {
   font-family: mainFont;
-  src: "GrapeSoda.ttf";
+  src: url('http://scropplesite.com/GrapeSoda.ttf');
 }
 
 p
