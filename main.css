@@ -1,7 +1,7 @@
 @font-family 
 {
   font-family: mainFont;
-  src: url(GrapeSoda.ttf);
+  src: "GrapeSoda.ttf";
 }
 
 p
