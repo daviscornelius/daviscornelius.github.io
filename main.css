@@ -3,6 +3,6 @@
   src: url('GrapeSoda.ttf') format('truetype');
 }
 
-body {
+* {
   font-family: 'mainFont', sans-serif;
 }
